@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @oCaioAug, aldo know as Caio
+- 👋 Hi, I’m @oCaioAug, also know as Caio
 - 👀 I’m interested in become a software engineer
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently graduating in Computer Science
+- 📫 How to reach me: my e-mail aguacalg@outlook.com
+
+```
+Olá
+```
 
 <!---
 oCaioAug/oCaioAug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
