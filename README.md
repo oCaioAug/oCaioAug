@@ -2,6 +2,7 @@
 ### Full-Stack Developer | Tech Enthusiast | Lifelong Learner / Desenvolvedor Full-Stack | Entusiasta de Tecnologia | Aprendiz Contínuo 
 
 🚀 Welcome to my GitHub! I'm a Full-Stack Developer passionate about solving real-world problems with clean code. With experience in **JavaScript, Python, and various back-end and front-end technologies**, I strive to turn ideas into innovative products!
+
 🚀 Bem-vindo ao meu GitHub! Sou um desenvolvedor Full-Stack apaixonado por resolver problemas reais com código elegante. Com experiência em **PHP, Python, e várias tecnologias de back-end e front-end**, busco transformar ideias em produtos inovadores!
 
 - 👨‍🎓 Currently pursuing a Bachelor's degree in Information Systems, where I'm deepening my knowledge in software development, data analysis, and system architecture.
