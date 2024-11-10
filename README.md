@@ -22,12 +22,12 @@
 And many more! 🌱 Currently exploring new challenges with Cloud Computing.
 E muito mais! 🌱 Atualmente explorando novos desafios com Computação em Nuvem.
 
-## 📫 Como Me Encontrar | How to reach me
+## 📫 How to reach me | Como Me Encontrar 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/caio-augusto-331818229/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:aguacalg@outlook.com)
 
-## 💬 Citação Inspiradora / Inspirational Quote
+## 💬 Inspirational Quote | Citação Inspiradora
 
 > "The best way to predict the future is to invent it." – Alan Kay
 >
