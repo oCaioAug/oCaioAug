@@ -12,6 +12,7 @@
 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square)
+![.NET](https://img.shields.io/badge/-DOTNET?logo=dotnet&logoColor=white&style=flat-square)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
